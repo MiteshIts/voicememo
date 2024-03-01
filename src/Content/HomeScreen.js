@@ -18,7 +18,7 @@ class HomeScreen extends Component {
     };
   }
 
-  handleIncreament = () => {
+   handleIncreament = () => {
     this.setState({counter: this.state.counter + 1});
   };
 
