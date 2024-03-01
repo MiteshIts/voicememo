@@ -167,7 +167,7 @@ class AllRecordingScreen extends Component {
         }));
       },
     );
-    console.log(result);
+    // console.log(result);
   };
 
   onStartPlay = async path => {
