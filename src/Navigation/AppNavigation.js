@@ -1,12 +1,7 @@
 import React, {useState, Component} from 'react';
 import {
   StyleSheet,
-  View,
-  TouchableOpacity,
-  Text,
-  SafeAreaView,
 } from 'react-native';
-
 import { connect } from 'react-redux';
 import { increment, decrement } from '../Store/actions/countAction';
 import { NavigationContainer } from '@react-navigation/native';
