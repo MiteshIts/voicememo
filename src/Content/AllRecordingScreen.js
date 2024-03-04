@@ -326,7 +326,7 @@ class AllRecordingScreen extends Component {
 
                     justifyContent: 'center',
                     alignItems: 'center',
-                    borderRadius: 10,
+                    borderRadius: 1,
                   }}>
                   <Image
                     style={{
@@ -367,7 +367,7 @@ class AllRecordingScreen extends Component {
                     alignItems: 'center',
                     justifyContent: 'center',
                     alignItems: 'center',
-                    borderRadius: 10,
+                    borderRadius: 9,
                   }}>
                   <Image
                     style={{
